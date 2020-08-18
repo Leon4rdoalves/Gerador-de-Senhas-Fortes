@@ -1,5 +1,4 @@
 """
-[✓] Armazenar a senha site/software, usuário/email.
 [✓] Armazenar Site/Software.
 [✓] Armazenar Usuário/Email.
 [✓] Configurar o tamanho da senha.
